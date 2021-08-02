@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "N/MVhHAc/q3xG+omTLWJz2bTKwuarFICYZ5Z6F8EJlXvzmweUVEbbuUedfXfhEEX1bLbx9oJW9USD9yGfNuKqA==",
+  "dgSpecHash": "bUkbaMjYENoAIBrpS8P3i3J2NlOFsAXSARgyGPiqLRpEOq1bnmVwxFLJkxO4QKyAY+LujFEV7fZsR3k8d/Uxdw==",
   "success": true,
-  "projectFilePath": "/Users/hugo/Desktop/Csharp/TP immersion/Immersion-Epita-Strasbourg/Immersion/YGO/YGO.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Pepito\\EPITATP\\Immersion-Epita-Strasbourg\\Immersion\\YGO\\YGO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pepito\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
   "logs": []
 }

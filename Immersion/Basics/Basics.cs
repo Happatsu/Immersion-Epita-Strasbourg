@@ -15,6 +15,12 @@ namespace Basics
                 return n;
             return -1 * n;
         }
+
+        public static int Power(int n, int p)
+        {
+            for (int u = 0; u < n; u++)
+            
+        }
         
         public static int Fibonacci(int n)
         {
