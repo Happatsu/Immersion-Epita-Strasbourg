@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/hugo/Desktop/Csharp/TP immersion/Immersion/Basics/Basics.csproj": {}
+    "/Users/hugo/Desktop/Csharp/TP immersion/Immersion-Epita-Strasbourg/Immersion/Basics/Basics.csproj": {}
   },
   "projects": {
-    "/Users/hugo/Desktop/Csharp/TP immersion/Immersion/Basics/Basics.csproj": {
+    "/Users/hugo/Desktop/Csharp/TP immersion/Immersion-Epita-Strasbourg/Immersion/Basics/Basics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hugo/Desktop/Csharp/TP immersion/Immersion/Basics/Basics.csproj",
+        "projectUniqueName": "/Users/hugo/Desktop/Csharp/TP immersion/Immersion-Epita-Strasbourg/Immersion/Basics/Basics.csproj",
         "projectName": "Basics",
-        "projectPath": "/Users/hugo/Desktop/Csharp/TP immersion/Immersion/Basics/Basics.csproj",
+        "projectPath": "/Users/hugo/Desktop/Csharp/TP immersion/Immersion-Epita-Strasbourg/Immersion/Basics/Basics.csproj",
         "packagesPath": "/Users/hugo/.nuget/packages/",
-        "outputPath": "/Users/hugo/Desktop/Csharp/TP immersion/Immersion/Basics/obj/",
+        "outputPath": "/Users/hugo/Desktop/Csharp/TP immersion/Immersion-Epita-Strasbourg/Immersion/Basics/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/hugo/.nuget/NuGet/NuGet.Config"

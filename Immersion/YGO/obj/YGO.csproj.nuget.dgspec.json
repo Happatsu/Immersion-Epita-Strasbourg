@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/hugo/Desktop/Csharp/TP immersion/Immersion/YGO/YGO.csproj": {}
+    "/Users/hugo/Desktop/Csharp/TP immersion/Immersion-Epita-Strasbourg/Immersion/YGO/YGO.csproj": {}
   },
   "projects": {
-    "/Users/hugo/Desktop/Csharp/TP immersion/Immersion/YGO/YGO.csproj": {
+    "/Users/hugo/Desktop/Csharp/TP immersion/Immersion-Epita-Strasbourg/Immersion/YGO/YGO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hugo/Desktop/Csharp/TP immersion/Immersion/YGO/YGO.csproj",
+        "projectUniqueName": "/Users/hugo/Desktop/Csharp/TP immersion/Immersion-Epita-Strasbourg/Immersion/YGO/YGO.csproj",
         "projectName": "YGO",
-        "projectPath": "/Users/hugo/Desktop/Csharp/TP immersion/Immersion/YGO/YGO.csproj",
+        "projectPath": "/Users/hugo/Desktop/Csharp/TP immersion/Immersion-Epita-Strasbourg/Immersion/YGO/YGO.csproj",
         "packagesPath": "/Users/hugo/.nuget/packages/",
-        "outputPath": "/Users/hugo/Desktop/Csharp/TP immersion/Immersion/YGO/obj/",
+        "outputPath": "/Users/hugo/Desktop/Csharp/TP immersion/Immersion-Epita-Strasbourg/Immersion/YGO/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/hugo/.nuget/NuGet/NuGet.Config"

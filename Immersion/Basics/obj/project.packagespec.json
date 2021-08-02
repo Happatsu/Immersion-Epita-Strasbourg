@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/hugo/Desktop/Csharp/TP immersion/Immersion/Basics/Basics.csproj",
+    "projectUniqueName": "/Users/hugo/Desktop/Csharp/TP immersion/Immersion-Epita-Strasbourg/Immersion/Basics/Basics.csproj",
     "projectName": "Basics",
-    "projectPath": "/Users/hugo/Desktop/Csharp/TP immersion/Immersion/Basics/Basics.csproj",
-    "outputPath": "/Users/hugo/Desktop/Csharp/TP immersion/Immersion/Basics/obj/",
+    "projectPath": "/Users/hugo/Desktop/Csharp/TP immersion/Immersion-Epita-Strasbourg/Immersion/Basics/Basics.csproj",
+    "outputPath": "/Users/hugo/Desktop/Csharp/TP immersion/Immersion-Epita-Strasbourg/Immersion/Basics/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.1"
