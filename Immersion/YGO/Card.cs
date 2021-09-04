@@ -10,5 +10,7 @@ namespace YGO
             TRAP,
             MAGIC
         }
+        
+        
     }
 }
