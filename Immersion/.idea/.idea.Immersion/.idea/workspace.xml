@@ -23,7 +23,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad99e11b-65fe-43db-8d10-ef1d10e17659" name="Default Changelist" comment="" />
+    <list default="true" id="ad99e11b-65fe-43db-8d10-ef1d10e17659" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Immersion/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Immersion/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/YGO/Card.cs" beforeDir="false" afterPath="$PROJECT_DIR$/YGO/Card.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/YGO/Game.cs" beforeDir="false" afterPath="$PROJECT_DIR$/YGO/Game.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/YGO/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/YGO/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../~$anstorming.docx" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,9 +43,9 @@
       <option value="$PROJECT_DIR$/Basics/Basics.cs" />
       <option value="$PROJECT_DIR$/YGO/Board.cs" />
       <option value="$PROJECT_DIR$/YGO/Duelist.cs" />
+      <option value="$PROJECT_DIR$/YGO/Game.cs" />
       <option value="$PROJECT_DIR$/YGO/Card.cs" />
       <option value="$PROJECT_DIR$/YGO/Program.cs" />
-      <option value="$PROJECT_DIR$/YGO/Game.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1tzylpKmxNQe3tdRgWaNi2hjyak" />
@@ -109,6 +115,8 @@
       <workItem from="1623786378145" duration="2247000" />
       <workItem from="1627922269487" duration="1130000" />
       <workItem from="1630773233586" duration="4398000" />
+      <workItem from="1630788782660" duration="233000" />
+      <workItem from="1631348066953" duration="2286000" />
     </task>
     <servers />
   </component>

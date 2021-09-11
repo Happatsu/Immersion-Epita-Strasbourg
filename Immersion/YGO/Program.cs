@@ -9,7 +9,6 @@ namespace YGO
 
             Console.WriteLine("Welcome to the duelist world, Seto Kaiba wants to fight against you !");
             
-            //dessin de kaiba sur la console svp
             
             Console.WriteLine("What's your name gamer ?");
             string YourName = Console.ReadLine();
